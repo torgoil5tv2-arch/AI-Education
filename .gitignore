@@ -1,0 +1,9 @@
+# Obsidian workspace files (local only)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# НЕ виключати (згідно стандарту v2.0):
+# _memory/          ← source of truth, зберігати в репо
+# _memory/sessions/ ← логи сесій потрібні в репо
+# tests/            ← тести повинні бути в репо
