@@ -5,7 +5,8 @@
 
 Читати в такому порядку:
 1. [[status/PROJECT_STATUS]] ← поточний стан і задачі
-2. [[rules/AGENT_RULES]] ← правила роботи (M1–M9, E1–E6)
+2. [[status/MAXIM_STATUS]] ← поточний стан знань та фокус навчання Максима
+3. [[rules/AGENT_RULES]] ← правила роботи (M1–M9, E1–E6)
 3. [[logs/CHANGELOG_BUGS]] ← останні 3 записи
 4. [[logs/CHANGELOG_SUCCESS]] ← останній 1 запис
 5. Якщо перша сесія → [[wiki/architecture]]
@@ -18,6 +19,7 @@
 
 ### Статус
 - [[status/PROJECT_STATUS]] — активні задачі, фази, прогрес
+- [[status/MAXIM_STATUS]] — стан знань, сильні/слабкі сторони Максима
 
 ### Правила
 - [[rules/AGENT_RULES]] — M1–M9 + E1–E6
