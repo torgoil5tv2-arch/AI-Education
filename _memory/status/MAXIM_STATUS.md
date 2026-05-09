@@ -99,3 +99,4 @@
 - [[index]]
 - [[status/PROJECT_STATUS]]
 - [[rules/AGENT_RULES]]
+- [[wiki/LEARNING_PLAN_MAXIM]]

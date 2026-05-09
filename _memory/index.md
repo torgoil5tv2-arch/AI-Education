@@ -30,6 +30,7 @@
 
 ### Wiki
 - [[wiki/architecture]] — стек, структура, обмеження
+- [[wiki/LEARNING_PLAN_MAXIM]] — 6-тижневий навчальний план для Максима
 - [[wiki/patterns-fail]] — антипатерни (з B00X)
 - [[wiki/patterns-success]] — успішні патерни (з S00X)
 - [[wiki/memory-standard-changelog]] — версії стандарту
